@@ -11,12 +11,12 @@ Usage (skipping compiling and running native binary)
 ----------
     1. open terminal
     2. cd into main dir
-    3. Issue command: go run main/sender.go
+    3. issue command: go run main/sender.go
     4. open new terminal
     5. cd into main dir
-    6. Issue command: go run main/receiver.go
+    6. issue command: go run main/receiver.go
     7. copy LoremIpsum.txt into "source" dir
-    8. Watch in second terminal for incomming msg
+    8. watch in second terminal for incoming msg
     
 How to change watching file and/or changing url
 -----------------------------------------------
